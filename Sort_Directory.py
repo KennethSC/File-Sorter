@@ -40,7 +40,6 @@ def sort_directory(dir):
             elif extension == "":
 
                 dir_name = "other"
-                dir_Counter = 1
 
                 # If a folder called 'other' is not in that 
                 # directory then it creates it
